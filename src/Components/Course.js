@@ -18,7 +18,6 @@ const Course = ({ course }) => {
                     fullIcon={<i className="fa fa-star"></i>}
                     color="red"
                     activeColor="#0000FF"
-
                 /> </p>
                 <button className='border-2 border-blue-400 py-1 px-5 rounded-full hover:bg-blue-400 hover:text-slate-50 duration-700'>Enroll Now</button>
             </div>
