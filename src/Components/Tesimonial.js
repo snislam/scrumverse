@@ -9,7 +9,7 @@ const Tesimonial = () => {
                     <p className="text-blue-500 font-bold">Our Testimonials</p>
                     <div className='flex-1 w-full h-1 bg-blue-600 ml-12'></div>
                 </div>
-                <div className='flex-1'></div>
+                <div className='flex-1 hidden md:flex'></div>
             </div>
             <div>
                 <div class="avatar flex flex-roe items-center justify-center my-20">
