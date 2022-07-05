@@ -1,0 +1,30 @@
+[
+    {
+        "id": 101,
+        "course_name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Samay Jain, Ex-KPMG",
+        "ratings": 5,
+        "img": "https://i.ibb.co/9vvwdC5/book-3.jpg"
+    },
+    {
+        "id": 102,
+        "course_name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Somu Roy, Ex-KPMG",
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/Yj37YVJ/book-4.jpg"
+    },
+    {
+        "id": 103,
+        "course_name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Srk Khan, Ex-KPMG",
+        "ratings": 5,
+        "img": "https://i.ibb.co/xhbdQ2j/book-2.jpg"
+    },
+    {
+        "id": 104,
+        "course_name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Salman Khan, Ex-KPMG",
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/6wcNtCJ/book-1.jpg"
+    }
+]
