@@ -1,10 +1,9 @@
-import { ChevronLeftIcon } from '@heroicons/react/outline';
-import { ArrowLeftIcon, ArrowRightIcon, ChevronRightIcon } from '@heroicons/react/solid';
+import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/outline';
 import React from 'react';
 
 const Tesimonial = () => {
     return (
-        <section className='px-5 md:px-12 pt-10 pb-20'>
+        <section className='px-5 md:px-20 pt-10 pb-20'>
             <div className='flex flex-row justify-start items-center'>
                 <div className='flex-1 flex flex-row items-center'>
                     <p className="text-blue-500 font-bold">Our Testimonials</p>

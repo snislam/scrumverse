@@ -2,6 +2,7 @@ import React from 'react';
 import Courses from '../Components/Courses';
 import Features from '../Components/Features';
 import Header from '../Components/Header';
+import Newsletter from '../Components/Newsletter';
 import Tesimonial from '../Components/Tesimonial';
 
 const Home = () => {
@@ -11,6 +12,7 @@ const Home = () => {
             <Courses />
             <Features />
             <Tesimonial />
+            <Newsletter />
         </div>
     );
 };

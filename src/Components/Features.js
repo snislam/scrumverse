@@ -8,7 +8,7 @@ import img5 from '../Images/Vector2.png'
 
 const Features = () => {
     return (
-        <section className='flex flex-col md:flex-row justify-around items-center py-12 px-5 md:px-12'>
+        <section className='flex flex-col md:flex-row justify-between items-center py-12 px-5 md:px-20'>
             <div>
                 <h2 className='text-3xl text-purple-600 font-bold'>Start learning with <br /> us right now!</h2>
                 <p className='text-md text-slate-700 my-5'>Choose from 100+ online video <br /> courses with new updates.</p>
