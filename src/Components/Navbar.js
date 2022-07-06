@@ -6,7 +6,7 @@ import logo from '../Images/logo.png'
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false)
     return (
-        <nav className='px-5 lg:px-12 py-2 text-slate-50 z-50'>
+        <nav className='px-5 lg:px-12 py-2 bg-gradient-to-r from-indigo-500 to-purple-500 text-slate-50 z-50'>
             <div className='flex flex-row justify-between items-center mx-auto'>
 
                 {/* logo here */}

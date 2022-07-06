@@ -8,7 +8,7 @@ import Ellipse4 from '../Images/Ellipse4.png';
 
 const Header = () => {
     return (
-        <section className='bg-gradient-to-br from-indigo-500 to-purple-500'>
+        <section className='bg-gradient-to-r from-indigo-500 to-purple-500'>
             <Navbar />
             <div className='flex flex-row justify-between items-center px-5 md:px-20 py-12 relative z-0'>
                 <div className=''>
